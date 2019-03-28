@@ -1,3 +1,3 @@
-# faster-cache
+﻿# faster-cache
 短小精悍的前端缓存工具，防止内存侧漏
-你好世界
+第一次修改
